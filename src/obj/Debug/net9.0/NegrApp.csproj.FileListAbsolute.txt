@@ -1,0 +1,14 @@
+C:\Users\stud\Documents\My Web Sites\c#\NegrApp\bin\Debug\net9.0\NegrApp.exe
+C:\Users\stud\Documents\My Web Sites\c#\NegrApp\bin\Debug\net9.0\NegrApp.deps.json
+C:\Users\stud\Documents\My Web Sites\c#\NegrApp\bin\Debug\net9.0\NegrApp.runtimeconfig.json
+C:\Users\stud\Documents\My Web Sites\c#\NegrApp\bin\Debug\net9.0\NegrApp.dll
+C:\Users\stud\Documents\My Web Sites\c#\NegrApp\bin\Debug\net9.0\NegrApp.pdb
+C:\Users\stud\Documents\My Web Sites\c#\NegrApp\obj\Debug\net9.0\NegrApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Documents\My Web Sites\c#\NegrApp\obj\Debug\net9.0\NegrApp.AssemblyInfoInputs.cache
+C:\Users\stud\Documents\My Web Sites\c#\NegrApp\obj\Debug\net9.0\NegrApp.AssemblyInfo.cs
+C:\Users\stud\Documents\My Web Sites\c#\NegrApp\obj\Debug\net9.0\NegrApp.csproj.CoreCompileInputs.cache
+C:\Users\stud\Documents\My Web Sites\c#\NegrApp\obj\Debug\net9.0\NegrApp.dll
+C:\Users\stud\Documents\My Web Sites\c#\NegrApp\obj\Debug\net9.0\refint\NegrApp.dll
+C:\Users\stud\Documents\My Web Sites\c#\NegrApp\obj\Debug\net9.0\NegrApp.pdb
+C:\Users\stud\Documents\My Web Sites\c#\NegrApp\obj\Debug\net9.0\NegrApp.genruntimeconfig.cache
+C:\Users\stud\Documents\My Web Sites\c#\NegrApp\obj\Debug\net9.0\ref\NegrApp.dll
